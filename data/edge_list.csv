@@ -1,0 +1,521 @@
+Child,Parent
+Blue Dream,Blueberry
+Blue Dream,Super Silver Haze
+Sour Diesel,Original Diesel
+Sour Diesel,DNL
+Girl Scout Cookies,OG Kush
+Girl Scout Cookies,Durban Poison
+Green Crack,Skunk #1
+Green Crack,Unknown Indica (Green Crack Parent)
+OG Kush,Chem Dawg
+OG Kush,"Lemon Thai x Hindu Kush, Pakistan (OG Kush Parent)"
+"Lemon Thai x Hindu Kush, Pakistan (OG Kush Parent)",Lemon Thai
+"Lemon Thai x Hindu Kush, Pakistan (OG Kush Parent)","Hindu Kush, Pakistan (OG Kush Parent)"
+White Widow,Brazil (White Widow Parent)
+White Widow,India (White Widow Parent)
+Jack Herer,Haze
+Jack Herer,Northern Lights #5 x Shiva Skunk
+Northern Lights #5 x Shiva Skunk,Northern Lights #5
+Northern Lights #5 x Shiva Skunk,Shiva Skunk
+Bubba Kush,OG Kush
+Bubba Kush,West Coast Dawg x Old World Kush
+West Coast Dawg x Old World Kush,West Coast Dawg
+West Coast Dawg x Old World Kush,Old World Kush
+Blue Cheese,Cheese
+Blue Cheese,Blueberry
+Pineapple Express,Trainwreck
+Pineapple Express,Hawaii
+Headband,Sour Diesel
+Headband,OG Kush
+Purple Kush,Hindu Kush
+Purple Kush,Purple Afghani
+Lemon Haze,Lemon Skunk
+Lemon Haze,Amnesia Haze
+Strawberry Cough,Strawberry Fields
+Strawberry Cough,Haze
+Blackberry Kush,Bubba Kush
+Blackberry Kush,Blackberry
+Master Kush,Hindu Kush
+Master Kush,Afghanistan (Master Kush Parent)
+Super Lemon Haze,Super Silver Haze
+Super Lemon Haze,Lemon Skunk
+Gorilla Glue #4,Sour_Dubb
+Gorilla Glue #4,Chem Dawg
+Cherry Pie,Granddaddy Purple
+Cherry Pie,Durban Poison
+Skywalker OG,OG Kush
+Skywalker OG,Skywalker
+Chocolope,O.G. Chocolate Thai
+Chocolope,Cannalope Haze
+God's Gift,OG Kush
+God's Gift,Granddaddy Purple
+LA Confidential,O.G. LA Affie
+LA Confidential,Afghani
+Tahoe OG,OG Kush
+Tahoe OG,SFV OG
+White Rhino,White Widow
+White Rhino,Afghanistan (White Rhino Parent)
+Skywalker,Mazar
+Skywalker,Blueberry
+Lemon Kush,Lemon G
+Lemon Kush,"Afghanistan, Hindu Kush (Lemon Kush Parent)"
+Death Star,Sensi Star
+Death Star,Sour Diesel
+Agent Orange,Orange Velvet
+Agent Orange,Jack the Ripper
+NYC Diesel,Sour Diesel
+NYC Diesel,Afghani Hawaiian
+Cinderella 99,Princess
+Cinderella 99,Cinderella 88
+Mango,KC 33
+Mango,Afghan
+LSD,Mazar
+LSD,Skunk #1
+Golden Goat,Island Sweet Skunk
+Golden Goat,Hawaii (Golden Goat Parent) x Romulan
+Hawaii (Golden Goat Parent) x Romulan,Hawaii (Golden Goat Parent)
+Hawaii (Golden Goat Parent) x Romulan,Romulan
+Fire OG,SFV OG
+Fire OG,OG Kush
+Blueberry OG,OG Kush
+Blueberry OG,Blueberry
+Banana Kush,Ghost OG
+Banana Kush,Skunk #1 x Haze
+Skunk #1 x Haze,Skunk #1
+Skunk #1 x Haze,Haze
+Cotton Candy,Lavender
+Cotton Candy,Power Plant
+Berry White,Blueberry
+Berry White,White Widow
+Romulan,White Rhino
+Romulan,North American (Romulan Parent)
+Mr. Nice,G-13
+Mr. Nice,Hash Plant
+Jillybean,Orange Velvet
+Jillybean,Space Queen
+Tangerine Dream,G-13
+Tangerine Dream,G-13 x Nevilles Haze
+G-13 x Nevilles Haze,G-13
+G-13 x Nevilles Haze,Nevilles Haze
+XJ-13,G-13
+XJ-13,Jack Herer
+Cinex,Cinderella 99
+Cinex,Vortex
+Orange Kush,Orange Bud
+Orange Kush,OG Kush
+Cannatonic,MK-Ultra
+Cannatonic,G-13 Haze
+Afgoo,Afghani
+Afgoo,Hawaiian Haze
+Chernobyl,Blood Wreck
+Chernobyl,Jack the Ripper
+Pineapple Kush,Pineapple
+Pineapple Kush,Master Kush
+Alien OG,Tahoe OG
+Alien OG,Alien Kush
+Silver Haze,Northern Lights x Skunk #1
+Silver Haze,Haze
+Northern Lights x Skunk #1,Northern Lights
+Northern Lights x Skunk #1,Skunk #1
+Juicy Fruit,Afghani
+Juicy Fruit,Thai (Juicy Fruit Parent)
+Platinum OG,Master Kush
+Platinum OG,OG Kush
+Obama Kush,Skunk #1
+Obama Kush,OG Kush
+Sour OG,Sour Diesel
+Sour OG,SFV OG
+Platinum Kush,Master Kush
+Platinum Kush,Afghani
+Larry OG,OG Kush
+Larry OG,SFV OG
+Animal Cookies,Girl Scout Cookies
+Animal Cookies,Fire OG
+Fruity Pebbles,Green Ribbon x Granddaddy Purple
+Fruity Pebbles,Tahoe Alien
+Green Ribbon x Granddaddy Purple,Green Ribbon
+Green Ribbon x Granddaddy Purple,Granddaddy Purple
+Thin Mint Girl Scout Cookies,Durban Poison
+Thin Mint Girl Scout Cookies,OG Kush
+Blackberry,The Black
+Blackberry,Afghani
+Purple Diesel,Purple Kush
+Purple Diesel,Sour Diesel
+Purple Trainwreck,Trainwreck
+Purple Trainwreck,Mendo Purps
+White Fire,Fire OG
+White Fire,The White
+Holy Grail Kush,Kosher Kush
+Holy Grail Kush,OG Kush
+Snowcap,Humboldt Snow
+Snowcap,Unknown Haze (Snowcap Parent)
+Sour Kush,OG Kush
+Sour Kush,Sour Diesel
+White Russian,AK47
+White Russian,White Widow
+Casey Jones,Oriental Express
+Casey Jones,East Coast Sour Diesel
+Bruce Banner,OG Kush
+Bruce Banner,Strawberry Diesel
+J1,Skunk #1
+J1,Jack Herer
+Space Queen,Romulan
+Space Queen,Cinderella 99
+Sweet Tooth,Sweet Pink Grapefruit
+Sweet Tooth,Blueberry
+Ace of Spades,Black Cherry Soda
+Ace of Spades,Jack The Ripper
+Acid,Diesel
+Acid,Unknown Strain (Acid Parent)
+Alaskan Ice,White Widow
+Alaskan Ice,Haze
+Alien Dawg,Chem Dawg
+Alien Dawg,Alien Technology
+Bio-Diesel,Sensi Star x Sour Diesel
+Bio-Diesel,Original Diesel x NYC Diesel
+Sensi Star x Sour Diesel,Sensi Star
+Sensi Star x Sour Diesel,Sour Diesel
+Original Diesel x NYC Diesel,Original Diesel
+Original Diesel x NYC Diesel,NYC Diesel
+Blowfish,G-13 x Oregon Funk
+Blowfish,G-13 x Blue Dot
+G-13 x Oregon Funk,G-13
+G-13 x Oregon Funk,Oregon Funk
+G-13 x Blue Dot,G-13
+G-13 x Blue Dot,Blue Dot
+Blue City Diesel,Blueberry
+Blue City Diesel,NYC Diesel
+Blue Diesel,Bio Diesel Mass
+Blue Diesel,Blueberry
+Blue Magoo,Blueberry
+Blue Magoo,Williams Wonder
+Blue Widow,Blueberry
+Blue Widow,White Widow
+Blueberry Kush,Blueberry x Hindu Kush
+Blueberry Kush,Lowryder
+Blueberry x Hindu Kush,Blueberry
+Blueberry x Hindu Kush,Hindu Kush
+Bubba OG,Bubba Kush
+Bubba OG,Ghost OG
+Candy Kush,OG Kush
+Candy Kush,Pounder
+Candyland,Platinum Girl Scout Cookies
+Candyland,Granddaddy Purple
+Cataract Kush,LA Confidential
+Cataract Kush,OG Kush
+Cheese Quake,Cheese
+Cheese Quake,Querkle
+Chem Valley Kush,Chem Dawg
+Chem Valley Kush,SFV OG
+Chemmy Jones,Chem Dawg
+Chemmy Jones,Casey Jones
+Cookies and Cream,Girl Scout Cookies x Unknown Strain (Cookies and Cream Parent)
+Cookies and Cream,Starfighter
+Girl Scout Cookies x Unknown Strain (Cookies and Cream Parent),Girl Scout Cookies
+Girl Scout Cookies x Unknown Strain (Cookies and Cream Parent),Unknown Strain (Cookies and Cream Parent)
+Corleone Kush,Bubba Kush
+Corleone Kush,SFV OG
+Critical Kush,Critical Mass
+Critical Kush,OG Kush
+Critical Mass,Afghanistan (Critical Mass Parent)
+Critical Mass,Skunk #1
+Dairy Queen,Cheese
+Dairy Queen,Space Queen
+DeadHead OG,Chem 91 Skunk VA
+DeadHead OG,SFV OG
+Dutch Hawaiian,Dutch Treat
+Dutch Hawaiian,Hawaiian (Dutch Hawaiian Parent)
+Dynamite,Grapefruit
+Dynamite,Grapefruit x Unknown Strain (Dynamite Parent)
+Grapefruit x Unknown Strain (Dynamite Parent),Grapefruit
+Grapefruit x Unknown Strain (Dynamite Parent),Unknown Strain (Dynamite Parent)
+Flo,Purple Thai
+Flo,Afghani
+Ghost Train Haze #1,Ghost OG
+Ghost Train Haze #1,Nevil's Wreck
+Glass Slipper,Pineapple 99
+Glass Slipper,Cinderella 99
+Grape God,God Bud
+Grape God,Grapefruit
+Grape Stomper,Purple Elephant
+Grape Stomper,Chemdog Sour Diesel
+Great White Shark,Super Skunk
+Great White Shark,White Widow
+green queen,Green Crack
+green queen,Space Queen
+Jack Flash,Jack Herer
+Jack Flash,Super Skunk x Haze
+Super Skunk x Haze,Super Skunk
+Super Skunk x Haze,Haze
+Jack the Ripper,Jacks Cleaner
+Jack the Ripper,Space Queen
+Jedi Kush,Death Star
+Jedi Kush,SFV OG
+Jesus OG,Hells Angel OG
+Jesus OG,Jack the Ripper
+Kandy Kush,OG Kush
+Kandy Kush,Trainwreck
+Kimbo Kush,Blackberry Kush
+Kimbo Kush,Starfighter
+Kong,Motavation
+Kong,White Russian
+Kushberry,Blueberry
+Kushberry,OG Kush
+Lee Roy,Triangle Kush
+Lee Roy,Rare Dankness
+Lemon Diesel,California Sour
+Lemon Diesel,Lost Coast OG
+Liberty Haze,Chem Dawg
+Liberty Haze,G-13 Haze
+Mango Kush,Mango
+Mango Kush,Hindu Kush
+Mob Boss,Chem Dawg
+Mob Boss,Tang Tang
+Moby Dick,Haze
+Moby Dick,White Widow
+Moonshine Haze,Amnesia Haze
+Moonshine Haze,Nevil's Wreck
+Nuken,God Bud
+Nuken,Kish
+Ogre,Short Term Amnesia x Hindu Kush
+Ogre,Durban Poison
+Short Term Amnesia x Hindu Kush,Short Term Amnesia
+Short Term Amnesia x Hindu Kush,Hindu Kush
+Orange Crush,Californian Orange
+Orange Crush,Blueberry
+Permafrost,Trainwreck
+Permafrost,White Widow
+Phantom Cookies,Cherry Pie
+Phantom Cookies,Granddaddy Purple
+Pineapple Chunk,Cheese
+Pineapple Chunk,Pineapple
+Pink Kush,King
+Pink Kush,King
+Pitbull,P91
+Pitbull,Sugar Plum
+Platinum Girl Scout Cookies,Durban Poison
+Platinum Girl Scout Cookies,OG Kush
+Plushberry,Black Cherry Soda
+Plushberry,Space Queen
+purple arrow,Purple Afghani
+purple arrow,Hindu Kush
+Qrazy Train,Blood Wreck
+Qrazy Train,Querkle
+Querkle,Purple Urkel
+Querkle,Space Queen
+ReCon,LA Confidential
+ReCon,Cannadential
+Red Diesel,"USA, California (Red Diesel Parent)"
+Red Diesel,NYC Diesel
+Red Dragon,Utopia Haze
+Red Dragon,"Himalaya, Afghanistan (Red Dragon Parent)"
+Royal Kush,Afghanistan
+Royal Kush,Skunk #1
+Sage n Sour,S.A.G.E.
+Sage n Sour,Sour Diesel
+Sour Alien,Original Sour Diesel
+Sour Alien,Alien Kush
+Sour Maui,Sour Diesel
+Sour Maui,Mauie Wowie
+Sour Tsunami,Sour Diesel
+Sour Tsunami,Sour Diesel x NYC Diesel
+Sour Diesel x NYC Diesel,Sour Diesel
+Sour Diesel x NYC Diesel,NYC Diesel
+Sour Willie,Sour Diesel
+Sour Willie,Willie Nelson
+Stardawg,Chem Dawg
+Stardawg,Tres Dawg
+Strawberry Kush,Bubblegum x OG Kush
+Strawberry Kush,Strawberry Cough
+Bubblegum x OG Kush,Bubblegum
+Bubblegum x OG Kush,OG Kush
+Super Skunk,Skunk #1
+Super Skunk,Afghanistan (Super Skunk Parent)
+Sweet Skunk,Sweet Pink Grapefruit
+Sweet Skunk,Northern Lights x Haze
+Tangerine Kush,Tangerine Haze
+Tangerine Kush,Rare Dankness #1
+Tangie,California Orange
+Tangie,Skunk #1 x Unknown Strain (Tangie Parent)
+Skunk #1 x Unknown Strain (Tangie Parent),Skunk #1
+Skunk #1 x Unknown Strain (Tangie Parent),Unknown Strain (Tangie Parent)
+The Flav,Romulan
+The Flav,Space Queen
+Ultra Sonja,UK Cheese
+Ultra Sonja,Tang Tang
+Vanilla Kush,Pakistani Hash Plant
+Vanilla Kush,Kush
+Vortex,Apollo 13
+Vortex,Space Queen
+wally og,Ghost OG
+wally og,Phantom OG
+White Fire,Fire Kush
+White Fire,The White
+white nightmare,Blue Dream
+white nightmare,White Moonshine
+White Purple Urkel,Purple Urkel
+White Purple Urkel,The White
+Kish,Shishkeberry
+Kish,Shishkeberry
+A-K,Afghani
+A-K,Hindu Kush
+Afghani Hawaiian,Afghani
+Afghani Hawaiian,Hawaii
+Alien Kush,Las Vegas Purple Kush
+Alien Kush,Alien Technology
+Apollo 13,Genius
+Apollo 13,P75
+Bio Diesel Mass,Diesel Ryder
+Bio Diesel Mass,Mass
+Blood Wreck,Trainwreck
+Blood Wreck,Trinity
+Blueberry Line,Temple Flo
+Blueberry Line,HTAF
+Cannadential,Cannalope Haze
+Cannadential,LA Confidential
+California Sour,Mexico (California Sour Parent)
+California Sour,Afghanistan (California Sour Parent)
+Cannalope Haze,Haze Brothers
+Cannalope Haze,Mexico (Cannalope Haze Parent)
+Charles Kush,Hash Plant x Northern Lights
+Charles Kush,Hash Plant x Northern Lights x Kodiak Gold
+Hash Plant x Northern Lights x Kodiak Gold,Hash Plant x Northern Lights
+Hash Plant x Northern Lights x Kodiak Gold,Kodiak Gold
+Chemdog Sour Diesel,Chem Dawg
+Chemdog Sour Diesel,Sour Diesel
+Cinderella 88,Princess
+Cinderella 88,P75
+Colombian Gold,Colombia (Colombian Gold Parent)
+Colombian Gold,Colombia (Colombian Gold Parent)
+Diesel,Sour Diesel
+Diesel,NYC Diesel
+DNL,RFK Skunk x Hawaiian (Parent DNL)
+DNL,Northern Lights
+RFK Skunk x Hawaiian (Parent DNL),RFK Skunk
+RFK Skunk x Hawaiian (Parent DNL),Hawaiian (Parent DNL)
+Floral Line,Purple Thai
+Floral Line,Afghani
+G-13 Haze,G-13
+G-13 Haze,Haze
+G-13 Haze NYC Diesel,G-13 Haze
+G-13 Haze NYC Diesel,NYC Diesel
+Green Ribbon,Green Crack
+Green Ribbon,Trainwreck x Afgoo
+Trainwreck x Afgoo,Trainwreck
+Trainwreck x Afgoo,Afgoo
+Hells Angel OG,OG Kush
+Hells Angel OG,Blackberry
+Humboldt Snow,Humboldt
+Humboldt Snow,Snow White
+KC 33,Thailand (KC 33 Parent)
+KC 33,Brazil (KC 33 Parent)
+Lemon Thai,Thailand Sativa (Lemon Thai Parent)
+Lemon Thai,Hawaii (Lemon Thai Parent)
+Lost Coast OG,Pakistan (Lost Coast OG Parent) x Thailand (Lost Coast OG Parent)
+Lost Coast OG,Chem Dawg
+Pakistan (Lost Coast OG Parent) x Thailand (Lost Coast OG Parent),Pakistan (Lost Coast OG Parent)
+Pakistan (Lost Coast OG Parent) x Thailand (Lost Coast OG Parent),Thailand (Lost Coast OG Parent)
+Hawaiian Haze,Haze
+Hawaiian Haze,Hawaii (Hawaiian Haze Parent)
+Mk-Ultra,G-13
+Mk-Ultra,OG Kush
+Motavation,Sensi Star
+Motavation,Warlock
+Nevil's Wreck,Arcata Trainwreck
+Nevil's Wreck,Neville's Haze
+Northern Lights x Haze,Northern Lights
+Northern Lights x Haze,Unknown Haze (Northern Lights x Haze)
+Orange Velvet,Skunk #1
+Orange Velvet,Unknown Strain (Orange Velvet Parent)
+Oriental Express,Trainwreck
+Oriental Express,Thailand (Oriental Express)
+Original Diesel,Chem Dawg
+Original Diesel,MassSuperSkunk x Northern Lights
+MassSuperSkunk x Northern Lights,MassSuperSkunk
+MassSuperSkunk x Northern Lights,Northern Lights
+Original Sour Diesel,Sour Diesel
+Original Sour Diesel,Sour OG
+UK Cheese,Cheese
+UK Cheese,Skunk #1
+Pineapple 99,Pineapple
+Pineapple 99,Cinderella 99
+Purple Afghani,Purple Kush
+Purple Afghani,Afghani
+Purple Elephant,Purple Urkel
+Purple Elephant,Unknown Strain (Purple Elephant Parent)
+Purple Kush,Hindu Kush
+Purple Kush,Purple Afghani
+Rare Darkness,Grape Ape
+Rare Darkness,Rare Dankness #1
+S.A.G.E.,Unknown Haze (S.A.G.E. Parent)
+S.A.G.E.,Afghanistan (S.A.G.E. Parent)
+Short Term Amnesia,Amnesia Haze
+Short Term Amnesia,Lowryder
+Skywalker,Mazar
+Skywalker,Blueberry
+Starfighter,Lemon Alien Dawg
+Starfighter,Tahoe Alien
+Strawberry Diesel,NYC Diesel
+Strawberry Diesel,Strawberry Cough
+Sugar Plum,Berkeley Blues
+Sugar Plum,Hawaiian Haze
+Sweet Pink Grapefruit,Grapefruit
+Sweet Pink Grapefruit,Unknown Strain (Sweet Pink Grapefruit Parent)
+The Black,Afghanistan (The Black Parent)
+The Black,Nepal (The Black Parent) x Hawaii (The Black Parent)
+Nepal (The Black Parent) x Hawaii (The Black Parent),Nepal (The Black Parent)
+Nepal (The Black Parent) x Hawaii (The Black Parent),Hawaii (The Black Parent)
+Tres Dawg,Chem Dawg
+Tres Dawg,Double Dawg
+West Coast Dawg,Chem Dawg
+West Coast Dawg,"USA, Humboldt (West Coast Dawg Parents)"
+White Moonshine,The White
+White Moonshine,Blue Moonshine
+William's Wonder,Unknown Indica (William's Wonder Parent)
+William's Wonder,Unknown Indica (William's Wonder Parent)
+Willie Nelson,Vietnamese Black
+Willie Nelson,Highland Nepalese
+#1,Unknown Hybrid (#1 Parent)
+#1,Unknown Ruderalis (#1 Parent)
+Mass,Critical Mass
+Mass,Lowryder
+Afghan\/Skunk,Afghani
+Afghan\/Skunk,Skunk #1
+Berkeley Blues,Berkeley
+Berkeley Blues,Blueberry
+Diesel Ryder,NYC Diesel
+Diesel Ryder,Lowryder #2
+Double Dawg,Chem Dawg
+Double Dawg,Chem Dawg x Afghani
+Chem Dawg x Afghani,Chem Dawg
+Chem Dawg x Afghani,Afghani
+Hash Plant x Northern Lights,Hash Plant
+Hash Plant x Northern Lights,Northern Lights
+HTAF,Thailand (HTAF Parent)
+HTAF,Afghani
+Las Vegas Purple Kush,Northern Lights
+Las Vegas Purple Kush,Hindu Kush
+Lemon Alien Dawg,Alien Dawg
+Lemon Alien Dawg,Lemon Kush
+P75,Princess
+P75,P50
+Purple Thai,The Hog
+Purple Thai,O.G. Chocolate Thai
+Snow White,Northern Special x White Widow
+Snow White,Cinderella 99
+Northern Special x White Widow,Northern Special
+Northern Special x White Widow,White Widow
+Tahoe Alien,Tahoe OG
+Tahoe Alien,Alien Kush
+Warlock,Skunk #1 x Skunk #1
+Warlock,Afghanistan (Warlock Parent)
+Skunk #1 x Skunk #1,Skunk #1
+Skunk #1 x Skunk #1,Skunk #1
+Berkeley,South African Land Race (Berkeley Parent)
+Berkeley,South African Land Race (Berkeley Parent)
+Lowryder #2,Santa Maria
+Lowryder #2,Lowryder #2
+P50,Princess
+P50,Shiva Skunk x Jack Herer
+Shiva Skunk x Jack Herer,Shiva Skunk
+Shiva Skunk x Jack Herer,Jack Herer
